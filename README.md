@@ -1,8 +1,12 @@
-# PT-BR Math Expert (XKB Layout)
+# PT-BR Math Expert
 
 **A standalone, high-performance keyboard layout designed for polymaths, scientists, engineers, and typographers.**
 
 This layout extends the standard Brazilian Portuguese (ABNT2) keyboard with a comprehensive set of Unicode symbols for Calculus, Logic, Set Theory, Physics, Chemistry, and Typography, without breaking standard input.
+
+⚠️ **Compatibility Note:** This is an **XKB** layout file designed specifically for **Linux distributions** (Arch, Ubuntu, Fedora, etc.) running X11 or Wayland (KDE/GNOME). It is **not directly compatible** with Windows or macOS without specific translation tools.
+
+---
 
 ## 📸 Screenshots
 
