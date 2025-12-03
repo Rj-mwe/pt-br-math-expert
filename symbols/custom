@@ -39,6 +39,12 @@
 //     - Newton Dot (ẋ): AltGr + Shift + 6
 //     - Negation Slash (a̸): AltGr + Shift + N
 //
+//  NOTE ON GREEK ALPHABET:
+//  While this layout includes common variables like π, σ, μ, Ω, and ϕ, it is
+//  designed to work in tandem with a dedicated Greek layout. For advanced
+//  mathematics requiring the full Greek alphabet, it is highly recommended to
+//  add the standard Greek ('gr') layout to your system and toggle between them.
+//
 //  INSTALLATION:
 //  1. Place this file in /usr/share/X11/xkb/symbols/custom
 //  2. Ensure your DE (KDE/GNOME) is configured to load the "custom" layout.
